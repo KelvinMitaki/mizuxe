@@ -1,0 +1,16 @@
+{
+  "name": "mizuxe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d mizuxe"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://KelvinMitaki.github.io/mizuxe",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
